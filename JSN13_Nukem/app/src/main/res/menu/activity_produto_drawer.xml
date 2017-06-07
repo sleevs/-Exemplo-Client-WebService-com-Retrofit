@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_produto_retorno"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_produtos"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Produtos" />
+
+        <item
+            android:id="@+id/nav_categorias"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Categorias" />
+
+
+        <item
+            android:id="@+id/nav_acompanhamento"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Acompanhamento de Pedido" />
+        <item
+            android:id="@+id/nav_pedidos_anteriores"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Pedidos Anteriores" />
+
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_redesocial_retorno"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Home" />
+
+
+        <item
+            android:id="@+id/nav_membros"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="membros" />
+        <item
+            android:id="@+id/nav_compartilhar"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="compartilhar" />
+
+        <item
+            android:id="@+id/nav_grupos"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="grupos" />
+
+        <item
+            android:id="@+id/nav_comentarios"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="comentários" />
+        <item
+        android:id="@+id/nav_curtidas"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="Curtidas" />
+
+
+
+        <item
+            android:id="@+id/nav_visitas"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Visitas" />
+
+        <item
+            android:id="@+id/nav_paginas"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Paginas" />
+
+
+    </group>
+
+
+
+</menu>

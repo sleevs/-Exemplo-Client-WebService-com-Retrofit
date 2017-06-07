@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_curso_retorno"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_meus_cursos"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Meus Cursos" />
+
+        <item
+            android:id="@+id/nav_minhas_aulas"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Minhas Aulas" />
+
+    </group>
+
+
+
+</menu>
